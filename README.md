@@ -1,4 +1,4 @@
-# Codeforces-Contest-Scraper
+# CF-Scraper
 Downloads Contest problems and tutorials
 
 The scraper does the following:
